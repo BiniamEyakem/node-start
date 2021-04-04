@@ -28,3 +28,8 @@ yargs.command({
 })
 yargs.parse();
 
+/* usage 
+    node .\app.js count --input='you are learning'
+    node .\app.js count --input='you are learning' --withoutWhitespace=true
+*/
+
