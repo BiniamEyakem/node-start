@@ -2,7 +2,7 @@
   "dependencies": {
     "yargs": "^16.2.0"
   },
-  "name": "start",
+  "name": "npm-start-yargs",
   "version": "1.0.0",
   "description": "npm yargs usage",
   "main": "app.js",
